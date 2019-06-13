@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="welcome_text">Chào mừng bạn đến với Phát triển ứng dụng Android!</string>
+</resources>
